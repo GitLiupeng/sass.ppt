@@ -19,7 +19,7 @@ style: |
         }
 ---
 
-# SASS语法
+# SASS语法实例讲解
 
 *使用markdown在github上写在线PPT*
 
