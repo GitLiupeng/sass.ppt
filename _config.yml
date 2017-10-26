@@ -1,0 +1,21 @@
+safe: true
+markdown: kramdown
+highlighter: pygments
+permalink: /:title.html
+relative_permalinks: false
+
+default_theme: ribbon
+default_width: 792
+default_lang: zh-CN
+default_body_class: list
+
+author:
+    name: liupeng
+    # url:  http://gitliupeng.github.io
+    company:
+        name: Youinnov.
+        # url:  http://www.youinnov.com/
+
+fork_url: https://github.com/GitLiupeng/jekyller
+progress: true
+line_numbers: true
